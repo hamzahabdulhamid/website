@@ -138,6 +138,6 @@ footer{
 }
 @media (max-wifth:728px){
 .row{
-    flex-direction: column;
+    flex-direction: row;
 }
 }
